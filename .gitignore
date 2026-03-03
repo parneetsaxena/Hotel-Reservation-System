@@ -1,0 +1,4 @@
+bin/
+javafx-sdk/
+*.class
+sources.txt
